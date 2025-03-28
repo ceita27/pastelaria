@@ -38,6 +38,15 @@ header {
     color: #8B4513;
     padding: 20px;
 }
+.banner h3 {
+    background-color: #d2691e8B;
+    font-family: 'WildNuzelnut', Arial, sans-serif;
+    color: #ac0983;
+    padding: 20px;
+}
+ .banner img {
+    width: 300px;
+}
 
 nav ul {
     list-style: none;
